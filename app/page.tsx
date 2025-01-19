@@ -403,19 +403,19 @@ export default function Component() {
                   image: "/images/Adem Ali.jpg",
                 },
                 {
-                  name: "Adem Ali",
+                  name: "Elham Nasir",
                   title: "Marketing Manager",
-                  image: "/images/Adem Ali.jpg",
+                  image: "/images/placeholder1.png",
                 },
                 {
-                  name: "Adem Ali",
+                  name: "Yosef Tadesse",
                   title: "Social Media Manager",
-                  image: "/images/Adem Ali.jpg",
+                  image: "/images/placeholder1.png",
                 },
                 {
-                  name: "Adem Ali",
+                  name: "Ayu Teferi",
                   title: "Finance Manager",
-                  image: "/images/Adem Ali.jpg",
+                  image: "/images/placeholder1.png",
                 },
               ].map((member, index) => (
                 <div
